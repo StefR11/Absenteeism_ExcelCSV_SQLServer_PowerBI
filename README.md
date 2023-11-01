@@ -1,2 +1,2 @@
 # Absenteeism_ExcelCSV_SQLServer_PowerBI
-The aim of this reposition is to provide a bonus and incentive for healthy employees. 
+The SQL queries showcase Subquery in a WHERE clause, filtering, Left Joins, Query Optimisation and Categorising through CASE statements
